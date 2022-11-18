@@ -49,8 +49,9 @@ cd ..
 <div align="center">
 <img src="assets/output.jpg">
 </div>
-
-![image-20221118203052121](https://typora-images-1302473945.cos.ap-chengdu.myqcloud.com/images/202211182030150.png)
+<div align="center">
+<img src="assets/output2.png">
+</div>
 
 
 
