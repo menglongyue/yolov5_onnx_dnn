@@ -57,9 +57,7 @@ cd ..
 
 ## Inference Video Demo
 
-<video controls autoplay name="media"><source src="assets/result_1.mp4" type="video/mp4"></video>
-
-
+![result_1](assets/result_1.gif)
 
 ## Thanks For:
 
