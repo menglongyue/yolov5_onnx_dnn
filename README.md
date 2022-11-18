@@ -27,7 +27,7 @@ Deploy ultralytics [Yolov5](https://github.com/ultralytics/yolov5.git) pretained
 
 ## Compile OpenCV
 
-Refer to [OpenCV Compile](Jetson Xavier NX OpenCV Compile.md).
+Refer to [OpenCV Compile](OpenCV_Compile.md).
 
 
 
